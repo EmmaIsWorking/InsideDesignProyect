@@ -62,14 +62,24 @@ h3{
 }
 
 /* >>>GALLERY */
-
-.gallery{
+.gallery {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
   padding: 40px;
 }
+
+.item1{
+grid-row-end: 4;
+}
+.item2{
+  grid-row-end: 2;
+}
+
+
 .gallery_cardContainer{
   padding: 0 20px;
+  background-color: aliceblue;
 }
 
 .gallery_cardContainer_img{
@@ -92,4 +102,3 @@ h3{
   color: #F9FAFC;
   font-size: 1.2em;
 }
-
