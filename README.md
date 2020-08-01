@@ -1,3 +1,8 @@
+![https://emmaisworking.dev/static/images/GitHubCover.png](https://emmaisworking.dev/static/images/GitHubCover.png)
+
+<a href="https://twitter.com/emmaisworking" alt="my twitter link"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/emmaisworking?style=social"></a>
+<a href="https://github.com/emmaisworking" alt="my twitter link"><img alt="GitHub followers" src="https://img.shields.io/github/followers/emmaisworking?style=social"></a>
+
 # HTML challenge
 This is a project of the Platzi Master Platzi program, it is for educational use and has no commercial purpose.
 El ejercicio originalmente se desarrolla con React (Link del repositorio)[https://github.com/PlatziMaster/challenge-html-01]. Se completara el proyecto cuando complete el curso de React.
